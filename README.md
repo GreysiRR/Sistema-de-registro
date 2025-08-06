@@ -8,3 +8,5 @@ Para ejecutar el sistema, debes poner:
 Sistema de registro 2
 
 Linea ecrita por MxSuazo
+
+LInea escrita por greirojas
